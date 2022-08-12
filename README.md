@@ -1,3 +1,5 @@
+About The Game
+
 ### <span dir="">Alap koncepció</span>
 
 <span dir="">2 játékos, 1-1 kastély, az nyer aki a másikét előb lerombolja.</span>
@@ -17,14 +19,3 @@
 ### Körök menete
 
 <span dir="">A játékos építkezhet, tornyokat fejleszthet, és egységeket vehet egy körben. Ezek után egy „End Round” gombbal befejezi a körét. Ezután lépnek és támadnak az egységek, támadnak a játékos tornyai akinek a köre vége. Minden körben az adott játékos egységei, tornyai lépnek, az ellenségesek nem. Ezután a másik játékos következik.</span>
-
-### <span dir="">Plusz pontos feladatok</span>
-
-* **<span dir="">Tornyok fejlesztése (0,5p)</span>**
-* **<span dir="">Barakkok (0,5p)</span>**
-* **<span dir="">Olyan egység ami átmegy terep akadályokon. Pl.:hegymászó (0,5p)</span>**
-* **<span dir="">Külön egység ami csak épületet támad (0,5p)</span>**
-* <span dir="">~~Kincsesládák (1p)~~</span>
-* <span dir="">~~AI (1,5p)~~</span>
-* <span dir="">~~Mentés (0,5p)~~</span>
-* <span dir="">~~Pálya szerkesztő mód~~</span>
